@@ -1,7 +1,6 @@
 ## React Quick Start - Make a Social Card
 
-### To Get Started:
-<br>
+### Get Started
 
 Clone this project:
 `git clone https://github.com/phoebequincy/socialcard.git`<br>
