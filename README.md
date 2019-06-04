@@ -14,7 +14,7 @@ In the terminal run:<br>
 `npm start` to start the app server on localhost<br>
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
