@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div className="App">
         <Card
-          logoURL={logoimg}
+          logoIMG={logoimg}
           headline={card.headline}
           name={card.name}
           creditImageURL={bizimg}
