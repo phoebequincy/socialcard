@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import '../styles/App.css';
 import card from '../cardData';
 import Card from './Card';
-import headshot from '../self.jpg';
-import sand from '../sand.jpg';
+import bizimg from '../mailchimp.jpg';
+import logo from '../react-logo.png';
 
 
 
@@ -12,10 +12,10 @@ class App extends Component {
     return (
       <div className="App">
         <Card
-          logoURL={sand}
+          logoURL={logo}
           headline={card.headline}
           name={card.name}
-          creditImageURL={headshot}
+          creditImageURL={bizimg}
           message={card.message}
           url={card.url}
           urlDisplayName={card.urlDisplayName}

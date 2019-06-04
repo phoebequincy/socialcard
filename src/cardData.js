@@ -1,13 +1,13 @@
 const cardData = {
-  headline: 'Social Cards are Important!',
+  headline: 'React makes Social Cards easy!',
 
-  name: 'Your Name',
+  name: 'Learn More',
 
-  message: "Social cards are an important part of your visual branding, and every website should have them. Even if you aren’t using social media actively yourself (…because you live under a rock?) you never know who might share your content, and it’s important that your brand looks great every time.",
+  message: "Social cards are an important part of your visual branding, and every website should have them.",
 
-  url: 'https://yourwebsite.com',
+  url: 'https://yourbizwebsite.com',
 
-  urlDisplayName: 'yourname.com',
+  urlDisplayName: 'makeonetoday.com',
 }
 
 export default cardData;
