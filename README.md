@@ -1,16 +1,17 @@
-##React Quick Start - Make a Social Card
+## React Quick Start - Make a Social Card
 
 To Get Started:
 
 Clone this project:
-`git clone https://github.com/phoebequincy/socialcard.git`
+`git clone https://github.com/phoebequincy/socialcard.git`<br>
 
-cd into socialcard
+cd into socialcard<br>
 
-In the terminal run:
-`npm install` to install the app dependencies
-`npm start` to start the app server on localhost
+In the terminal run:<br>
 
+`npm install` to install the app dependencies<br>
+
+`npm start` to start the app server on localhost<br>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
