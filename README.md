@@ -13,7 +13,7 @@ In the terminal run:<br>
 
 `npm start` to start the app server on localhost<br>
 
-![Screenshot](src/screenshot.png)
+![Screenshot](src/socialcard.png)
 
 
 <br>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
